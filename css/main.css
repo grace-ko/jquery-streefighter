@@ -51,18 +51,26 @@ body {
   float: left;
 }
 .sflogo {
-   background-image: url('http://benjaminewhite.github.io/jquery-streetfighter-example/images/sf-logo.png');
-}
-/*.jlogo {
-  background-image: url("http://benjaminewhite.github.io/jquery-streetfighter-example/images/jquery-logo.png");
-}*/
-.extraimg { 
+  background-image: url('http://benjaminewhite.github.io/jquery-streetfighter-example/images/sf-logo.png');
   background-repeat:no-repeat;
   position: absolute;
   width: 100%;
   height: 100%;
   left: 600px;
   top: 50px;
+}
+.instruction {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 700px;
+  top: 400px;
+  font-size: 30px;
+
+}
+p {
+  margin-top: -40px;
+  font-family: 'Baloo Tamma', cursive;
 }
 
 
