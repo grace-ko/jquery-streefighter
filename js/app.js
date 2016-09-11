@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
     $("#intro-music").get(0).play();
     $('.ryu').mouseenter(function(){
         $('.ryu-still').hide();
@@ -38,5 +39,5 @@ $(document).keydown(function(e) {
       $('.ryu-still').hide();
       $('.ryu-cool').show();
     }
-  })
+})
 

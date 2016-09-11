@@ -27,7 +27,7 @@ body {
   background-image: url('../images/ryu-ready-position.gif');
 }
 .ryu-cool {
-  background-image: url ('../images/ryu-cool.gif');
+  background-image: url('../images/ryu-cool.gif');
 }
 .ryu-still {
   background-image: url('../images/ryu-standing-still.png');
@@ -53,9 +53,9 @@ body {
 .sflogo {
    background-image: url('http://benjaminewhite.github.io/jquery-streetfighter-example/images/sf-logo.png');
 }
-.jlogo {
+/*.jlogo {
   background-image: url("http://benjaminewhite.github.io/jquery-streetfighter-example/images/jquery-logo.png");
-}
+}*/
 .extraimg { 
   background-repeat:no-repeat;
   position: absolute;
